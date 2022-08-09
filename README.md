@@ -40,3 +40,7 @@
      - You can also add your own ASCII art. Just remember to add three single quotes ''' at the start and at the end of your artwork to turn it into a             multi-line string.
      
 *********************************************************************
+
+##Project Number 4: RockPaperScissors
+ - You input a number 0,1 or 2 which corrsponds to rock, paper or scissors and then you play the game with the computer who inputs a value between 0,1 or 2 at random.
+ - It has interestoing ascii art, Try it out!!!
