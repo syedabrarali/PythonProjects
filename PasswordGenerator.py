@@ -23,5 +23,5 @@ for num in range(1, nr_numbers + 1):
 
 random.shuffle(password)
 
-password1 = ''.join(password)
+password1 = ''.join(password) # this joins the list back as a string
 print(f"Your password is: {password1}")
