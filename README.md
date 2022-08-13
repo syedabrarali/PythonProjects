@@ -45,6 +45,12 @@
  - You input a number 0,1 or 2 which corrsponds to rock, paper or scissors and then you play the game with the computer who inputs a value between 0,1 or 2 at random.
  - It has interestoing ascii art, Try it out!!!
 
+*********************************************************************
+
 ##Project Number 5: RandomPasswordGenerator
 - You input 3 things: the number of letters you would want, the number of symbols you want and the number of numbers you want.
 - It will give you a password which is very strong.
+
+**********************************************************************
+##Project Number 6 : Hangman Game
+- The game asks you to guess a word which is chosen at random, you have 6 lives to guess the letters of the word , Good Luck!
