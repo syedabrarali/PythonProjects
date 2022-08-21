@@ -54,3 +54,8 @@
 **********************************************************************
 ##Project Number 6 : Hangman Game
 - The game asks you to guess a word which is chosen at random, you have 6 lives to guess the letters of the word , Good Luck!
+
+*********************************************************************
+
+##Project Number 7 : Caesor's Cipher
+ - You can encode your messages like the great ruler did in his time.
