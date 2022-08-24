@@ -59,3 +59,8 @@
 
 ##Project Number 7 : Caesor's Cipher
  - You can encode your messages like the great ruler did in his time.
+ 
+ *********************************************************************
+
+##Project Number 8 : Bidding Auction
+- Ever wanted to play a make believe auction of your cats(pretty weird), but this program can help you sell your cat among your friends for the highest price.
