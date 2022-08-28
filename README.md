@@ -64,3 +64,8 @@
 
 ##Project Number 8 : Bidding Auction
 - Ever wanted to play a make believe auction of your cats(pretty weird), but this program can help you sell your cat among your friends for the highest price.
+
+*********************************************************************
+
+##Project Number 9 : BlackJack
+- A very gui stripped version of a popular card game named Blackjack.
