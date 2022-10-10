@@ -70,6 +70,13 @@
 ##Project Number 9 : BlackJack
 - A very gui stripped version of a popular card game named Blackjack.
 
+*********************************************************************
 
-##Project Number 9 : NumberGuessingGame
+##Project Number 10 : NumberGuessingGame
 - When you want the retro guessing games, this is the program to run. 
+
+
+*********************************************************************
+
+##Project Number 11 : CoffeeMachine
+ - Ever wondered how the coffee machine at your office pantry works, well you can check out the code for a simple coffee machine.
