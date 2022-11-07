@@ -80,3 +80,10 @@
 
 ##Project Number 11 : CoffeeMachine
  - Ever wondered how the coffee machine at your office pantry works, well you can check out the code for a simple coffee machine.
+ 
+ *********************************************************************
+
+##Project Number 12 : TurtleRace
+
+- Consists of 8 turtles of different colours who move accross the screen at random paces, and you can bet on who might win the race.
+- Utilised OOPS concepts and Turtle and random modules in Python.
