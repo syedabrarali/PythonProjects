@@ -91,6 +91,6 @@
 
  *********************************************************************
 
-##Project Number 12 : SnakeGame
+##Project Number 13 : SnakeGame
 
 - Replicated the snake game which we all loved and played for hours on our Nokia phones.
