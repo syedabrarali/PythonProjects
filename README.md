@@ -87,3 +87,10 @@
 
 - Consists of 8 turtles of different colours who move accross the screen at random paces, and you can bet on who might win the race.
 - Utilised OOPS concepts and Turtle and random modules in Python.
+
+
+ *********************************************************************
+
+##Project Number 13 : SnakeGame
+
+- Replicated the snake game which we all loved and played for hours on our Nokia phones.
