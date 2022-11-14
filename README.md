@@ -95,6 +95,8 @@
 
 - Replicated the snake game which we all loved and played for hours on our Nokia phones.
 
+ *********************************************************************
+
 ##Project Number 14 : PingPong Game
 
 - Replicated the cult classic ping pong game which used to be present in arcades made by Atari.
